@@ -17,6 +17,7 @@ I'm a data scientist and machine learning enthusiast with a passion for solving 
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/samuel-oluwemimo-52b1a4246/)
+- ayodejioluwemimo@gmail.com
 
 ---
 
