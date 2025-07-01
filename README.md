@@ -7,13 +7,14 @@ I'm a data scientist and machine learning enthusiast with a passion for solving 
 - Passionate about data engineering and machine learning, continuously exploring new algorithms and techniques to solve real-world problems.
 
 ### 🌟 Skills:
-- **Machine Learning**, **Data Analysis** & **Visualization**
-- Python, TensorFlow, Keras
-- SQL, Tableau, Power BI
-- Frontend (React) & Backend (Django)
+- Programming Languages: Python, SQL, JavaScript
+- Data Science/ML: PyTorch, TensorFlow, scikit-learn, Hugging Face, Convolutional Neural Networks (CNNs), Natural Language Processing (NLP), Image Classification, Computer Vision, Machine Learning, Deep Learning
+-	Data Tools: Pandas, NumPy, Excel, Tableau, Power BI, PrestoDB
+-	Cloud: Microsoft Azure
+-	Other: Problem Solving, Attention to Detail, Communication, Project Management, ETL Processes, Data Cleaning, Data Visualization
 
 ### ⚡ Fun Fact:
-- I enjoy exploring **absurdist philosophy** in my free time! 😄
+- I enjoy exploring **the works of dostoevsky** in my free time! 😄
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/samuel-oluwemimo-52b1a4246/)
